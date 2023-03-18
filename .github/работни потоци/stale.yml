@@ -1,4 +1,4 @@
-name: Mark stale PRs
+opensource.guide/.github/работни потоци/ stale.ymlname: Mark stale PRs
 on:
   workflow_dispatch:
   schedule:
